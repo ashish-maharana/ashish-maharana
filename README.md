@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashish-maharana
-- 👀 I’m interested in web-development
+- 👀 I’m interested in web-development & app-development
 - 🌱 I’m currently learning new techs like VueJs, React Native, Python, etc
 - 📫 You can reach me at my email : ashish.maharana07@gmail.com
 
